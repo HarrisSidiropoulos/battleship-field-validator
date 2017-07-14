@@ -6,8 +6,9 @@ Battleship (also Battleships or Sea Battle) is a guessing game for two players. 
 
 Before the game begins, players set up the board and place the ships accordingly to the following rules:
 - There must be single battleship (size of 4 cells), 2 cruisers (size 3), 3 destroyers (size 2) and 4 submarines (size 1). Any additional ships are not allowed, as well as missing ships.
-Each ship must be a straight line, except for submarines, which are just single cell.
+Each ship must be a straight line, except for submarines, which are just single cell.  
 ![alt text](http://i.imgur.com/FleBpT9.png)
-- The ship cannot overlap or be in contact with any other ship, neither by edge nor by corner.
+- The ship cannot overlap or be in contact with any other ship, neither by edge nor by corner.  
 ![alt text](http://i.imgur.com/MuLvnug.png)
-- This is all you need to solve this kata. If you're interested in more information about the game, visit this link.
+
+This is all you need to solve this kata. If you're interested in more information about the game, visit this link.
